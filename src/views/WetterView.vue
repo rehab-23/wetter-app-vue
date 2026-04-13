@@ -2,7 +2,7 @@
   <div class="wetter-app">
 
     <br><br><br>
-    <h1>Renés Wetter-App</h1>
+    <h1>- Wetter-App -</h1>
     <br>
 
     <p style="text-align: center;">{{ currentDate }}</p>
