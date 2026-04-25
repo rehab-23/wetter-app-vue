@@ -1,19 +1,13 @@
 # wetter-app-vue
 
-## Project setup
-```
-npm install
-```
+## Technologien
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Projekt starten und aufrufen
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+1. Befehl im Terminal der jeweiligen IDE eingeben: npm run serve
+1. Entwicklungsserver wird gestartet, Projekt ist im Browser betriebsbereit
