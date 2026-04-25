@@ -10,4 +10,4 @@
 ## Projekt starten und aufrufen
 
 1. Befehl im Terminal der jeweiligen IDE eingeben: npm run serve
-1. Entwicklungsserver wird gestartet, Projekt ist im Browser betriebsbereit
+1. Entwicklungsserver wird gestartet, Projekt ist im Browser verfügbar
